@@ -1,0 +1,14 @@
+D:\unity_project\Lesson04_控制台知识点\bin\Debug\net8.0\Lesson04_控制台知识点.exe
+D:\unity_project\Lesson04_控制台知识点\bin\Debug\net8.0\Lesson04_控制台知识点.deps.json
+D:\unity_project\Lesson04_控制台知识点\bin\Debug\net8.0\Lesson04_控制台知识点.runtimeconfig.json
+D:\unity_project\Lesson04_控制台知识点\bin\Debug\net8.0\Lesson04_控制台知识点.dll
+D:\unity_project\Lesson04_控制台知识点\bin\Debug\net8.0\Lesson04_控制台知识点.pdb
+D:\unity_project\Lesson04_控制台知识点\obj\Debug\net8.0\Lesson04_控制台知识点.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity_project\Lesson04_控制台知识点\obj\Debug\net8.0\Lesson04_控制台知识点.AssemblyInfoInputs.cache
+D:\unity_project\Lesson04_控制台知识点\obj\Debug\net8.0\Lesson04_控制台知识点.AssemblyInfo.cs
+D:\unity_project\Lesson04_控制台知识点\obj\Debug\net8.0\Lesson04_控制台知识点.csproj.CoreCompileInputs.cache
+D:\unity_project\Lesson04_控制台知识点\obj\Debug\net8.0\Lesson04_控制台知识点.dll
+D:\unity_project\Lesson04_控制台知识点\obj\Debug\net8.0\refint\Lesson04_控制台知识点.dll
+D:\unity_project\Lesson04_控制台知识点\obj\Debug\net8.0\Lesson04_控制台知识点.pdb
+D:\unity_project\Lesson04_控制台知识点\obj\Debug\net8.0\Lesson04_控制台知识点.genruntimeconfig.cache
+D:\unity_project\Lesson04_控制台知识点\obj\Debug\net8.0\ref\Lesson04_控制台知识点.dll

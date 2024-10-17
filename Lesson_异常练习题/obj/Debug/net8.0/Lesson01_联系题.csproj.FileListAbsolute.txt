@@ -1,0 +1,14 @@
+D:\unity_project\Lesson_day01\bin\Debug\net8.0\Lesson01_联系题.exe
+D:\unity_project\Lesson_day01\bin\Debug\net8.0\Lesson01_联系题.deps.json
+D:\unity_project\Lesson_day01\bin\Debug\net8.0\Lesson01_联系题.runtimeconfig.json
+D:\unity_project\Lesson_day01\bin\Debug\net8.0\Lesson01_联系题.dll
+D:\unity_project\Lesson_day01\bin\Debug\net8.0\Lesson01_联系题.pdb
+D:\unity_project\Lesson_day01\obj\Debug\net8.0\Lesson01_联系题.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity_project\Lesson_day01\obj\Debug\net8.0\Lesson01_联系题.AssemblyInfoInputs.cache
+D:\unity_project\Lesson_day01\obj\Debug\net8.0\Lesson01_联系题.AssemblyInfo.cs
+D:\unity_project\Lesson_day01\obj\Debug\net8.0\Lesson01_联系题.csproj.CoreCompileInputs.cache
+D:\unity_project\Lesson_day01\obj\Debug\net8.0\Lesson01_联系题.dll
+D:\unity_project\Lesson_day01\obj\Debug\net8.0\refint\Lesson01_联系题.dll
+D:\unity_project\Lesson_day01\obj\Debug\net8.0\Lesson01_联系题.pdb
+D:\unity_project\Lesson_day01\obj\Debug\net8.0\Lesson01_联系题.genruntimeconfig.cache
+D:\unity_project\Lesson_day01\obj\Debug\net8.0\ref\Lesson01_联系题.dll
